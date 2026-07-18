@@ -7,7 +7,7 @@ We did everything locally in Python instead of using Azure, since the assignment
 
 Link to dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
-Link to video: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+Link to video: https://youtu.be/ZaYnkKOhBrg
 
 ## What it does
 
