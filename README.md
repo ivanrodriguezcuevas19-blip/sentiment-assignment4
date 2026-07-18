@@ -1,4 +1,4 @@
-```markdown
+
 # Sentiment Analysis
 
 The task was to build a sentiment analysis solution, explain how it works, and evaluate how well it performs. Basically: can a program tell if a review is positive, negative, or neutral, and how good is it at that.
