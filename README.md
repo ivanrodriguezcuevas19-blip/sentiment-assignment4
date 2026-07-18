@@ -7,6 +7,8 @@ We did everything locally in Python instead of using Azure, since the assignment
 
 Link to dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 
+Link to video: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 ## What it does
 
 1. Loads a CSV of Amazon reviews (text + star rating)
