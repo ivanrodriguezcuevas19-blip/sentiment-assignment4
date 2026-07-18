@@ -5,6 +5,8 @@ The task was to build a sentiment analysis solution, explain how it works, and e
 
 We did everything locally in Python instead of using Azure, since the assignment says Azure isn't mandatory. Data goes into a SQLite database instead of Azure SQL, and the charts are made with matplotlib/plotly.
 
+Link to dataset: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
 ## What it does
 
 1. Loads a CSV of Amazon reviews (text + star rating)
@@ -54,4 +56,4 @@ sentiment-project/
 │   └── sentiment_analysis.py
 └── outputs/
 ```
-```
+
